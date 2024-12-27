@@ -1,0 +1,4 @@
+datasets=3.0.1
+gliner==0.2.13
+torch==2.4.0
+transformers=4.45.0
